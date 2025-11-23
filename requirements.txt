@@ -1,0 +1,5 @@
+streamlit
+dotenv
+Pillow
+google-genai
+playwright
